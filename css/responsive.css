@@ -1,0 +1,171 @@
+@charset "utf-8";
+/* CSS Document */
+
+   html { font-family:Arial, Helvetica, sans-serif !important; }
+   body { background-color : #f5f5f5;}
+   .small {font-size:75%;}
+   .well-sm {color:#FFF;background-color:#000;padding:8px;}
+   .panel-default {border:1px solid #F0F0F0;}
+   .panel-default>.panel-heading {background-color:#000;color:#FFF;padding:8px;}
+   .panel-default>.panel-body {background-color:#f5f5f5;color:#000;padding:8px;} 
+   .fa-lg {font-size:16px;}
+   .fa-envelope {background-color:#000;}
+   .fa-search {background-color: #FFF; color:#000;}
+   .fa-facebook {background-color: #3B5998;}
+   .fa-twitter {background-color:#55ACEE;}
+   .fa-rss {background-color:#FF5500;}
+   .navbar {
+      margin-bottom: 25px;
+      border-radius: 0;
+	  font-size:1.1em;
+    }
+footer {
+	  background-color: #f2f2f2;
+      padding: 10px;
+	  margin-top: 20px !important;
+    }
+h1 {font-size:1.8em;}
+
+.navbar-brand-centered {
+  margin-left: auto !important;
+  margin-right: auto !important;
+  float: none !important;
+}
+
+.dropdown-menu {padding: 10px;background-color:#000;}
+
+form, iframe {
+	max-width:100%;
+}
+nav {
+  background-color: #000000 !important;
+  border-color: #080808;
+}
+
+#myCarousel{background-color: #f5f5f5;}
+
+.carousel-control.left, .carousel-control.right {
+    background-image: none !important;
+}
+.glyphicon-chevron-left, .glyphicon-chevron-right{color:#000;}
+
+.carousel{
+    background-color: #f5f5f5;
+    margin-top: 20px;
+}
+.carousel .item img{
+    margin: 0 auto; 
+}
+.novas{
+	margin: 10px;
+	background-color: #f5f5f5;
+}
+	
+.sombra {box-shadow: inset 0px 0px 1px #CCC;}
+	
+.entrada {
+	border: 1px dashed #bbbbbb;
+	border-radius: 6px;
+	margin-top:4px;
+	min-height:45px;
+	padding-top:6px;
+	padding-bottom:3px;
+	font-size:1.1em;
+	padding:20px;
+}
+.entrada:hover {
+	background-color:#FFF;
+}
+.entradac {
+	border: 1px dashed #bbbbbb;
+	border-radius: 6px;
+	margin-top:6px;
+	min-height:68px;
+	padding-top:6px;
+	padding-bottom:4px;
+}
+.entradac:hover {
+	background-color:#FFF;
+}
+.entradac .foto {
+	padding:0px 4px 2px 4px;
+	float:right;
+}
+.entradac .tipo{
+	padding:0px 4px 2px 4px;
+	float:left;
+	display:none;
+}
+.centrado {
+	text-align:center;
+}
+.cativo {
+	font-size: 0.7em;
+}
+.esquerda {
+	text-align:left !important;
+}
+.xustificado {
+	text-align:justify;
+}
+.dereita {
+	text-align:right;
+}
+.detalle3 {
+	font-size:1.1em;
+	font-weight:400;
+	color : #000000;
+	padding:3px;
+	margin:15px;
+	text-align : center;
+	border-top-width: thin;
+	border-right-width: thin;
+	border-bottom-width: thin;
+	border-left-width: thin;
+	border-top-style: dotted;
+	border-right-style: dotted;
+	border-bottom-style: dotted;
+	border-left-style: dotted;
+}
+
+    ul.treeMenu 
+    {
+        margin-left: -30px;
+        font-size: 11pt;
+    }
+
+    .treeMenu li {
+        
+        padding: 0 0 10px 10px;
+        color: #000000;
+        margin-left: -15px;
+        list-style-type: none;
+        cursor: pointer;
+    }
+
+    .treeMenu li ul 
+    {
+        display: none;
+        margin-top: 10px;
+        margin-left: -25px;
+    }
+   
+    
+    .treeMenu > li > ul > li
+    {
+        border-left: 1px dotted #cccccc;
+    }
+
+    .treeMenu li a {
+            color: #000000;
+            font-weight: normal;
+    }
+
+    .treeMenu li a.selectedDoc {
+            background-color: #e3e3e3;
+    }
+    
+    .treeMenu li span.pipe 
+    {
+        color: #cccccc;
+    }

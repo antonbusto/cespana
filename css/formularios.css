@@ -1,0 +1,64 @@
+@charset "utf-8";
+/* CSS Document */
+
+#formulario {
+font-family : Verdana, Arial, Helvetica, sans-serif;
+margin: 0 auto;
+width:50%;
+}
+form {padding:2%; text-align:left; display:block;}
+h1 {text-align:center;}
+#formulario input {
+font-style:normal;
+padding: 0.3em;
+background-color:#f0fdff;
+font-size:0.9em;
+font-weight:bold;
+margin-left: 1em;
+border-radius : 5px;
+}
+#formulario textarea {
+padding: 0.3em;
+background-color:#f0fdff;
+margin-left: 1em;
+font-size:0.9em;
+border-radius : 5px;
+}
+legend {
+color:#000;
+margin-left: 1em;
+}
+label {
+display: block;
+margin-top: 0.7em;
+margin-left: 1em;
+}
+.btn {
+display: block;
+margin: 1em 0 1em 1em;
+background-color:#EFEFEF;
+}
+input:focus, textarea:focus {
+border: 2px solid #000;
+background-color:#9F9;
+}
+.centrado {text-align:center;}
+.xustificado {text-align:justify;}
+.esquerda {text-align:left;}
+.dereita {text-align:right;}
+#contenedorf {
+	width:95%;
+	margin:0 auto;
+	}
+img {border:none;}
+/* Indicador para la letra del atajo  */
+.sobresale{
+	font-weight: bold;
+	text-decoration:underline;
+}
+/* Indicador para los campos obligatorios */
+.asterisco{
+	font-size:1.1em;
+	font-weight:bold;
+	color: red;
+}

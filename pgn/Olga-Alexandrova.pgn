@@ -1,0 +1,207 @@
+[Event "30th Andorra Open"]
+[Site "Erts-La Massana AND"]
+[Date "2012.07.27"]
+[EventDate "2012.07.21"]
+[Round "7.19"]
+[Result "0-1"]
+[White "Fernando Silva Rodriguez"]
+[Black "Olga Alexandrova"]
+[ECO "E44"]
+[WhiteElo "2179"]
+[BlackElo "2417"]
+[PlyCount "60"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Ne2 Bb7 6. Ng3 O-O
+7. f3 c5 8. a3 cxd4 9. exd4 Bxc3+ 10. bxc3 d6 11. Bd3 Nc6
+12. Ne4 Nxe4 13. fxe4 e5 14. O-O exd4 15. cxd4 Nxd4 16. Bb2
+Nc6 17. Qh5 Ne5 18. Qe2 Rc8 19. Rac1 Qe7 20. Bb1 Ba6 21. Ba2
+Qe6 22. Bxe5 dxe5 23. Rfd1 Rfd8 24. Qb2 Rxd1+ 25. Rxd1 Bxc4
+26. Bxc4 Qxc4 27. Qxe5 Qb3 28. Ra1 Qe3+ 29. Kf1 h6 30. Qf5
+Qd3+ 0-1
+[Event "ch-UKR Women"]
+[Site "Kramatorsk UKR"]
+[Date "2001.03.27"]
+[EventDate "2001.03.26"]
+[Round "2"]
+[Result "1-0"]
+[White "Olga Alexandrova"]
+[Black "Tatjana Melamed"]
+[ECO "A57"]
+[WhiteElo "2425"]
+[BlackElo "2292"]
+[PlyCount "37"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. Nf3 g6 5. cxb5 a6 6. Nc3 axb5
+7. d6 Bg7 8. e4 O-O 9. e5 Ng4 10. Bg5 Qa5 11. dxe7 Re8
+12. Bxb5 Nc6 13. O-O Nxe7 14. Re1 Nc6 15. Bc4 Ngxe5 16. Nxe5
+Rxe5 17. Qf3 Bb7 18. Qxf7+ Kh8 19. Bf6 1-0
+[Event "2nd ch-EUR Women"]
+[Site "Warsaw POL"]
+[Date "2001.04.29"]
+[EventDate "2001.04.22"]
+[Round "7"]
+[Result "1-0"]
+[White "Olga Alexandrova"]
+[Black "Maria Velcheva"]
+[ECO "D45"]
+[WhiteElo "2432"]
+[BlackElo "2244"]
+[PlyCount "63"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 e6 5. Nf3 Nbd7 6. Qc2 Bd6
+7. Bd3 O-O 8. O-O dxc4 9. Bxc4 a6 10. a3 b5 11. Be2 c5
+12. dxc5 Bxc5 13. Ne4 Be7 14. Bd3 Bb7 15. Nxf6+ Nxf6 16. e4
+Rc8 17. Qe2 Qc7 18. Bd2 e5 19. a4 bxa4 20. Rxa4 Ra8 21. Rc1
+Qd6 22. Bc3 Rfc8 23. Rd1 Qc6 24. Rc4 Qe6 25. Nxe5 Qb6
+26. Rxc8+ Rxc8 27. Bc4 Nxe4 28. Bd4 Qb4 29. Bxf7+ Kh8 30. Qh5
+h6 31. Ng6+ Kh7 32. Qf5 1-0
+[Event "TCh-YUG Women"]
+[Site "Herceg Novi YUG"]
+[Date "2001.05.18"]
+[EventDate "2001.05.14"]
+[Round "5"]
+[Result "1-0"]
+[White "Olga Alexandrova"]
+[Black "Nadezda Stojanovic"]
+[ECO "E48"]
+[WhiteElo "2419"]
+[BlackElo "2111"]
+[PlyCount "47"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nge2 c5
+7. cxd5 Nxd5 8. O-O cxd4 9. Nxd5 Qxd5 10. Nf4 Qd6 11. exd4 Nc6
+12. a3 Ba5 13. Qh5 g6 14. Qh6 Qxd4 15. Nh5 f5 16. Be3 Qd7
+17. Bc5 Rf7 18. Nf4 Bd8 19. Bc4 Qe8 20. Rfe1 b6 21. Nxe6 Bxe6
+22. Rxe6 Qd7 23. Rxg6+ Kh8 24. Rg8+ 1-0
+[Event "5th EU-ch (Women)"]
+[Site "Dresden"]
+[Date "2004.??.??"]
+[EventDate "2004.03.21"]
+[Round "6"]
+[Result "1-0"]
+[White "Olga Alexandrova"]
+[Black "Anna Muzychuk"]
+[ECO "A87"]
+[WhiteElo "2437"]
+[BlackElo "2367"]
+[PlyCount "131"]
+
+1.d4 f5 2.g3 Nf6 3.Bg2 g6 4.Nf3 Bg7 5.c4 O-O 6.O-O d6 7.Nc3 e6
+8.Qc2 Nc6 9.d5 Ne5 10.Nxe5 dxe5 11.e4 exd5 12.cxd5 Qe7 13.Bd2
+f4 14.Nb5 Ne8 15.Rfc1 Rf7 16.Qd3 Qd8 17.Rc2 c6 18.Nc3 b6
+19.Rd1 a5 20.Bc1 Ba6 21.Qd2 c5 22.Bh3 Nd6 23.Be6 g5 24.f3 Bc8
+25.g4 h5 26.h3 Kf8 27.Bxf7 Kxf7 28.b3 Bd7 29.Bb2 Bf6 30.Qd3
+Qh8 31.Rh2 h4 32.Rc2 Qc8 33.Nb1 Qa6 34.Qxa6 Rxa6 35.Na3 Ke7
+36.Kf2 Be8 37.Nb1 Bd7 38.Nc3 Be8 39.Ne2 Bb5 40.Nc1 Ra8 41.Nd3
+Bxd3 42.Rxd3 Kd7 43.Rd1 Ra7 44.Ke2 Ra8 45.a3 Kc7 46.Ra1 Kb7
+47.b4 c4 48.bxa5 Rxa5 49.a4 Ra8 50.Bc3 Rb8 51.Bb4 Be7 52.Rac1
+Ra8 53.Bxd6 Bxd6 54.Rxc4 Bc5 55.Rb1 Kc7 56.Rb5 Kd6 57.Kd3 Bd4
+58.Kc2 Kd7 59.Kb3 Ra7 60.Rc6 Ra8 61.Rb4 Bc5 62.Rc4 Rb8 63.Rg6
+Be7 64.Rcc6 b5 65.a5 Ra8 66.a6 1-0
+[Event "European Team Championship (Women)"]
+[Site "Porto Carras GRE"]
+[Date "2011.11.03"]
+[EventDate "2011.11.03"]
+[Round "1.10.1"]
+[Result "0-1"]
+[White "Jovana Vojinovic"]
+[Black "Olga Alexandrova"]
+[ECO "A04"]
+[WhiteElo "2346"]
+[BlackElo "2423"]
+[PlyCount "70"]
+
+1. Nf3 Nf6 2. g3 d5 3. Bg2 c6 4. c4 Bg4 5. Ne5 Be6 6. cxd5
+Bxd5 7. Nf3 c5 8. Nc3 Bc6 9. d3 e6 10. O-O Be7 11. e4 Nbd7
+12. Qe2 e5 13. Nh4 Nf8 14. Nf5 Ne6 15. b3 Nd4 16. Nxd4 cxd4
+17. Nd1 O-O 18. f4 Nd7 19. Nf2 exf4 20. Bxf4 Bg5 21. Bd6 Be7
+22. Bf4 Bg5 23. Bd6 Re8 24. Bh3 Ne5 25. Ba3 Be3 26. Rad1 Qg5
+27. Bc1 Rad8 28. Rfe1 Bxc1 29. Rxc1 h5 30. Kh1 Rd6 31. Rc2 Rf6
+32. Rf1 Nxd3 33. Nxd3 Rxe4 34. Qg2 Rxf1+ 35. Qxf1 Re1+ 0-1
+[Event "Chess Olympiad (Women)"]
+[Site "Istanbul TUR"]
+[Date "2012.09.09"]
+[EventDate "2012.08.28"]
+[Round "11.8"]
+[Result "0-1"]
+[White "Bela Khotenashvili"]
+[Black "Olga Alexandrova"]
+[ECO "E12"]
+[WhiteElo "2509"]
+[BlackElo "2417"]
+[PlyCount "98"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. a3 Ba6 5. Qb3 Be7 6. Nc3 Bb7
+7. d5 c6 8. e4 exd5 9. e5 Ne4 10. cxd5 Nxc3 11. Qxc3 cxd5
+12. Bd3 Nc6 13. O-O O-O 14. Qc2 h6 15. Qe2 Re8 16. Bb1 Bf8
+17. Qd3 g6 18. Re1 Re6 19. Bf4 d6 20. Ba2 dxe5 21. Nxe5 Nxe5
+22. Bxe5 Bg7 23. Bxg7 Rxe1+ 24. Rxe1 Kxg7 25. h3 Qf6 26. Re2
+Rc8 27. Kh2 Qd6+ 28. Qg3 Qxg3+ 29. Kxg3 Kf6 30. Rd2 Ke5 31. h4
+f6 32. Re2+ Kd6 33. Kf4 Bc6 34. Bb1 Re8 35. Rd2 Rg8 36. g3 Bd7
+37. Ba2 Be6 38. Ke3 g5 39. hxg5 fxg5 40. f4 gxf4+ 41. gxf4
+Rg3+ 42. Kf2 Rh3 43. Kg2 Re3 44. Bb1 Bg4 45. Bd3 Re1 46. Rf2
+Re3 47. Rd2 h5 48. Bc4 Be6 49. Ba2 a5 0-1
+[Event "European Team Championship (Women)"]
+[Site "Warsaw POL"]
+[Date "2013.11.16"]
+[EventDate "2013.11.08"]
+[Round "8.9"]
+[Result "0-1"]
+[White "Nastassia Ziaziulkina"]
+[Black "Olga Alexandrova"]
+[ECO "B15"]
+[WhiteElo "2350"]
+[BlackElo "2427"]
+[PlyCount "74"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. c3
+Bd6 7. Bd3 O-O 8. Qc2 Re8+ 9. Ne2 h6 10. Be3 Nd7 11. O-O Nf8
+12. Rfe1 Qc7 13. Ng3 Be6 14. c4 Rad8 15. a3 Bc8 16. Rad1 Bg4
+17. Rc1 h5 18. Bf5 g6 19. Bd3 h4 20. Nf1 h3 21. g3 f5 22. f4
+Be7 23. Nd2 Bf6 24. Nb3 b6 25. Qf2 Qd7 26. Be2 Re4 27. Bxg4
+fxg4 28. Rcd1 Qf5 29. Bc1 Rxe1+ 30. Rxe1 Qd3 31. Re3 Qxc4
+32. Rc3 Qd5 33. Be3 Ne6 34. Qc2 c5 35. dxc5 Bxc3 36. bxc3 bxc5
+37. c4 Qf3 0-1
+[Event "Chess Olympiad (Women)"]
+[Site "Tromso NOR"]
+[Date "2014.08.03"]
+[EventDate "2014.08.02"]
+[Round "2.30"]
+[Result "0-1"]
+[White "Elena Partac"]
+[Black "Olga Alexandrova"]
+[ECO "B20"]
+[WhiteElo "2127"]
+[BlackElo "2424"]
+[PlyCount "82"]
+
+1. e4 c5 2. d3 Nc6 3. f4 g6 4. Nf3 Bg7 5. g3 d6 6. Bg2 e5
+7. c3 Nge7 8. O-O O-O 9. Be3 exf4 10. gxf4 Bg4 11. Qe1 f5
+12. Qh4 Qd7 13. Nbd2 Rae8 14. Rae1 b6 15. Bh3 Bxh3 16. Qxh3 b5
+17. d4 cxd4 18. Nxd4 b4 19. N2f3 bxc3 20. bxc3 Nxd4 21. Bxd4
+Nc6 22. Bxg7 Kxg7 23. e5 dxe5 24. Nxe5 Nxe5 25. Rxe5 Rxe5
+26. fxe5 Re8 27. Qe3 Re6 28. Rb1 Qc7 29. Rb5 Rc6 30. Rb3 Rc4
+31. h3 Re4 32. Qf2 Rxe5 33. Qd4 Kf7 34. Kf2 Re6 35. Qd5 Qh2+
+36. Kf1 Qxh3+ 37. Kf2 Qe3+ 38. Kf1 Qe1+ 39. Kg2 Qe4+ 40. Qxe4
+Rxe4 41. Rb7+ Re7 0-1
+[Event "Chess Olympiad (Women)"]
+[Site "Tromso NOR"]
+[Date "2014.08.05"]
+[EventDate "2014.08.02"]
+[Round "4.8"]
+[Result "1-0"]
+[White "Olga Alexandrova"]
+[Black "Janelle Mae Frayna"]
+[ECO "D11"]
+[WhiteElo "2424"]
+[BlackElo "2205"]
+[PlyCount "77"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 a6 5. Bd3 b5 6. cxd5 cxd5
+7. a4 b4 8. Nbd2 e6 9. O-O Be7 10. Nb3 a5 11. Bd2 Ba6 12. Bxa6
+Rxa6 13. Qe2 O-O 14. Rfc1 Ra7 15. Ne5 Bd6 16. Rc2 Ne4 17. f3
+Nxd2 18. Qxd2 Bxe5 19. dxe5 Nd7 20. Qd4 Qb8 21. f4 h6 22. Rc6
+Qa8 23. Rac1 Ra6 24. Rc7 Nb6 25. Nc5 Ra7 26. Nxe6 Rxc7
+27. Rxc7 Rb8 28. Nxg7 Rb7 29. Rxb7 Qxb7 30. Nf5 Qc7 31. Qd1
+Kf8 32. h3 Qc6 33. b3 Qg6 34. Qc2 Ke8 35. Nd6+ Kd7 36. Qc5
+Qb1+ 37. Kh2 Qxb3 38. Qxb6 Qc3 39. Qb7+ 1-0

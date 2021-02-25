@@ -1,0 +1,301 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+	background-color: #f8f4f4;
+	}
+
+/* estilos do taboleiro */
+#tablero-container {
+	margin:0 auto;
+	width:100%;
+}
+#tablero-moves {
+	padding: 8px; 
+	font-size: 1em;
+	color:#99c;
+	font-weight:300;
+	margin-bottom:10px;
+}
+.ct-black-square  
+{  
+    background-color:silver;  
+}  
+  
+.ct-white-square  
+{  
+    background-color: white;  
+}  
+
+.ct-board-border  
+{   
+    border:10px solid silver;  
+}  
+.ct-board-move-mainline  
+{   
+	font-size:0.8em;
+	color: #039;
+} 
+.ct-board-move-current  
+{   
+    color: red;  
+}  
+
+.ct-board-move-comment  
+{   
+    color:#666;
+} 
+
+
+/*estilos de estrutura*/
+
+#contenidos {
+	margin:0 auto;
+	width:95%;
+	background-color:#FFF;
+	max-width:1700px;
+	min-height:700px;
+	border-radius: 8px; /*CSS3 */
+	box-shadow: 1px 1px 1px #ccc; CSS3
+	} 
+
+h1 {
+	font-size:0.9em;
+	color:#99c;
+	text-align:center;
+	font-weight:400;
+	}
+h2 {
+	font-size:1.1em;
+	color:#000;
+	}
+h2, form {
+		margin:20px;
+}
+
+h3 {
+	font-size:1em;
+}
+
+h4 {
+	font-size:1.2em;
+	margin:20px;
+	
+}
+
+.bordos {
+	border:1px solid #333;
+	border-radius: 20px;
+	padding:10px;
+	width:20px;
+}
+
+.marco {	
+    padding: 6px;
+	border: 1px solid #bababa;
+	background-color:#FFF;
+}
+.vol{
+	/* box-shadow: 4px 1px 10px #aaa; */
+	border-radius: 5px;
+	border:1px solid #333;
+	padding-top: 0.1em;
+	padding-right: 0.3em;
+	padding-bottom: 0.1em;
+	padding-left: 0.3em;
+}
+
+.nota {	color:#99c;}
+
+.flotadereita {  
+	float: right;
+	margin-left: 12px;
+	margin-right:12px;
+	font-size:0.9em;
+	text-align:left;
+	
+}
+
+.flotadereita p {
+	margin:20px;
+}
+.flotaesquerda { 
+	float: left;
+	margin-right: 10px;
+}
+
+
+.limpafloat { 
+	clear:both;
+	float:none;
+	height:0;
+	font-size: 1px;
+	line-height: 0px;
+}
+
+/* estilos de formato */
+
+.titularg {
+	font-size: 1em;
+	font-weight: normal;
+	width:500px;
+    color: #333;   
+   	margin: 0 auto;
+	margin-top:5px;
+	margin-bottom:15px;
+	text-align:center;
+	
+    background: #f8f4f4;
+    color: #333;
+    border: 1px solid #222;
+    padding: .5em;
+}
+
+.centrado {
+	text-align:center;
+}
+.xustificado {
+	text-align:justify;
+}
+
+.detalle {
+	font-size:.8em;
+}
+
+
+.pefoto {
+	font-size:0.9em;
+}
+
+.limpa {
+	float:none;
+	clear:both;
+	}
+	
+/* estilos de taboa */
+
+table {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+	font-size: 0.8em;
+	margin: 0 auto;
+	text-align: left;
+	border-collapse: collapse;
+	margin-top:3px;
+}
+table th {
+	font-size: 1em;
+	font-weight: normal;
+	padding: 8px;
+    background: #f8f4f4;
+    color: #333;
+    padding: .4em;
+	color: #039;
+}
+table td {
+	padding: 8px; 
+	font-size: 1em;
+	border-bottom: 1px solid #ccc;
+	color: #669;
+	border-top: 1px solid #ccc;
+}
+
+table {
+	max-width:98%;
+}
+table tfoot tr td {
+	background: #e8edff;
+	font-size: 1em;
+	color: #99c;
+}
+table tbody tr:hover td {
+	background-color:#f8f4f4;
+	color: #339;
+}
+
+
+/* transformacion de lista en botons */
+
+ul.menu {
+  width: 275px;
+  list-style: none;
+  margin: 20px;
+  padding: 0;
+  border: 1px solid #7C7C7C;
+  font-size:0.95em;
+}
+ul.menu li {
+  border-bottom: 1px solid #7C7C7C;
+  border-top: 1px solid #FFF;
+  background: #f8f4f4;
+}
+ul.menu li a {
+  padding: .2em 0 .2em 1.5em;
+  display: block;
+  text-decoration: none;
+  color: #333;
+  background: #F4F4F4 url("../imaxes/cabalo1.png") no-repeat 3px;
+}
+ul.menu li a:hover, ul.menu li a:active {
+  background: #E4E4E4 url("../imaxes/cabalo2.png") no-repeat 3px;
+}
+
+
+
+
+/* estilos de ligazons e botons */
+
+a:link {
+	color: #009;
+	text-decoration: none;
+}
+a:visited {
+	color:#FC0;
+	text-decoration: none;
+}
+a:hover {
+	color:#000;
+	text-decoration: underline;
+}
+a:active {
+	text-decoration: none;
+}
+
+
+a.boton {
+   text-decoration: none;
+   background: #f8f4f4;
+   color: #333;
+   border: 1px solid #222;
+   padding: .4em;
+}
+a.boton:hover {
+   background: #f8f4f4;
+}
+a.boton:active {
+   border: 2px solid #000;
+   color:#000;
+   font-size:0.9em;
+   font-weight:bold;
+}
+
+
+input {
+    border: 1px solid #222;
+    color: #333;
+    padding: 0.4em;
+   /* margin-right: 5.5em; */
+}
+input:focus {
+	border: 2px solid #000;
+	background-color:#f8f4f4;
+	color:#000;
+	font-size:0.9em;
+	font-weight:bold;
+}
+.input {
+    border: 1px solid #222;
+    color: #333;
+    padding: 0.4em;
+   /* margin-right: 5.5em; */
+}

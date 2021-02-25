@@ -1,0 +1,177 @@
+[Event "Simul"]
+[Site "Barcelona ESP"]
+[Date "1935.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Jaime Llado Lumbera"]
+[Black "Jose Raul Capablanca"]
+[ECO "E70"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "50"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 O-O 5. Nf3 c5 6. Be2 d6
+7. O-O Bg4 8. Be3 Nc6 9. h3 Bxf3 10. Bxf3 Nd7 11. d5 Nd4
+12. Be2 e5 13. Bd3 f5 14. f4 fxe4 15. Bxe4 Bh6 16. Bxd4 cxd4
+17. Nb5 Nc5 18. Bc2 exf4 19. Kh1 f3 20. Rxf3 Rxf3 21. Qxf3 Qh4
+22. Rf1 Rf8 23. Qe2 Rxf1+ 24. Qxf1 d3 25. Bxd3 Bf4 0-1
+[Event "Madrid"]
+[Site "Madrid"]
+[Date "1951.??.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "1-0"]
+[White "Jaime Llado Lumbera"]
+[Black "Roman Toran Albero"]
+[ECO "B74"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "83"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be2 Bg7
+7. O-O O-O 8. Be3 Nc6 9. Nb3 Be6 10. f4 Qc8 11. h3 Rd8 12. Bf3
+Bc4 13. Rf2 e5 14. Rd2 exf4 15. Bxf4 Ne5 16. Nd4 Nxf3+
+17. Qxf3 Qc5 18. Rad1 Re8 19. Kh1 d5 20. e5 Ne4 21. Nxe4 dxe4
+22. Qxe4 Bd5 23. Nb3 Bxe4 24. Nxc5 Bxe5 25. Nxe4 Bxf4 26. Nf6+
+Kf8 27. Rf2 Be3 28. Rf3 Re6 29. Rd7 Bc5 30. Nxh7+ Ke8
+31. Rdxf7 Rd8 32. Rf1 Re2 33. Rc7 Be7 34. Nf6+ Kf7 35. Nd5+
+Ke8 36. Rxe7+ Rxe7 37. Nxe7 Kxe7 38. Rf3 Rd2 39. Rc3 Kd6
+40. Rd3+ Rxd3 41. cxd3 Kd5 42. g4 1-0
+[Event "13th olm final A"]
+[Site "Munich"]
+[Date "1958.10.17"]
+[EventDate "1958.09.30"]
+[Round "6.4"]
+[Result "1/2-1/2"]
+[White "Jaime Llado Lumbera"]
+[Black "Tigran Vartanovich Petrosian"]
+[ECO "B52"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "118"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Bd7 4.Bxd7+ Qxd7 5.O-O Nc6 6.b3 Nf6
+7.Re1 g6 8.Bb2 Bg7 9.d4 cxd4 10.Nxd4 Nh5 11.Bc3 Ne5 12.Nf3 f6
+13.Nxe5 fxe5 14.Bd2 Nf4 15. Be3 Qc6 16.Nd2 O-O 17.a4 a6 18.a5
+Rac8 19.c4 Kh8 20.Bb6 Rf7 21.Nf1 Rcf8 22.f3 Ne6 23.Ne3 h5
+24.Rf1 Kh7 25.Nd5 Bh6 26.Nb4 Qc8 27.Nd3 Ng5 28.Qe2 Ne6 29.Rad1
+Nd4 30.Bxd4 exd4 31.Kh1 h4 32.Nf2 Qc5 33.Qe1 Qh5 34.Ng4 e5
+35.h3 Bf4 36.Qb4 Rd8 37.Qb6 Qg5 38.b4 Rc8 39.b5 axb5 40.cxb5
+Qd8 41.Qxd8 Rxd8 42.Rd3 Rc8 43.Ra3 Rc3 44.Rfa1 Rfc7 45.Rxc3
+dxc3 46.Nf6+ Kh6 47.Nd5 Rc5 48. Nxf4 exf4 49.a6 c2 50.Rc1 Rxb5
+51.axb7 Rb1 52.b8=Q Rxb8 53.Rxc2 Rb1+ 54. Kh2 Rd1 55.Rc8 d5
+56.exd5 Rxd5 57.Rc4 Kg5 58.Kg1 Rd2 59.Rc5+ Kf6 1/2-1/2
+[Event "EU-chT (Men)"]
+[Site "Oberhausen"]
+[Date "1961.06.20"]
+[EventDate "?"]
+[Round "5"]
+[Result "0-1"]
+[White "Josef Marsalek"]
+[Black "Jaime Llado Lumbera"]
+[ECO "C41"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "86"]
+
+1.e4 d6 2.d4 Nf6 3.Nc3 e5 4.Nf3 Nbd7 5.Bc4 Be7 6.h3 c6 7.a4
+O-O 8.dxe5 dxe5 9.O-O Qc7 10.Qe2 Nc5 11.Nh4 Ne8 12.Nf5 Nd6
+13.f4 Bxf5 14.exf5 Nxf5 15.Qxe5 Qxe5 16.fxe5 Nd4 17.Rf2 Bh4
+18.Rd2 Rad8 19.Ne2 Bf2+ 20.Kxf2 Ne4+ 21.Ke3 Nxd2 22.Kxd2 Nb3+
+23.Kc3 Nxa1 24.Bd3 Rfe8 25.Bf4 b5 26.axb5 cxb5 27.b4 Rxd3+
+28.cxd3 Rc8+ 29.Kd2 Nc2 30.Nc3 Nxb4 31.Nxb5 Nd5 32.Bg5 Rb8
+33.Nxa7 Rb2+ 34.Ke1 Rxg2 35.h4 h6 36.Bd8 Ra2 37.Nc6 Ra6
+38.Ne7+ Nxe7 39.Bxe7 Re6 40.Bd6 f6 41.d4 Kf7 42.Kf2 Rxd6
+43.exd6 g5 0-1
+[Event "Oberhausen (EU/MM: SU-SPA)"]
+[Site "Oberhausen (EU/MM: SU-SPA)"]
+[Date "1961.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Jaime Llado Lumbera"]
+[Black "Mark Taimanov"]
+[ECO "B28"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "76"]
+
+1.e4 c5 2.Nf3 a6 3.d3 Nc6 4.Be2 g6 5.O-O Bg7 6.c3 Nf6 7.Be3 d6
+8.h3 O-O 9.Nbd2 e5 10.a4 Nh5 11.Nh2 Nf4 12.Bxf4 exf4 13.Bg4
+Be6 14.Ndf3 Na5 15.Bxe6 fxe6 16.Rb1 c4 17.dxc4 Nxc4 18.Qd3 Rc8
+19.Rfd1 Re8 20.Nf1 Qa5 21.Qe2 Bf8 22.Ra1 Qb6 23.Rdb1 Bg7
+24.N1d2 Qc5 25.Nxc4 Qxc4 26.Qc2 d5 27.Nd2 Qc6 28.exd5 exd5
+29.Qd3 Rcd8 30.Nf3 Re4 31.a5 Qb5 32.Qxb5 axb5 33.Kf1 Rd6
+34.Rd1 Bf6 35.Rd3 Kf7 36.Rad1 Ke6 37.Nd2 Ra4 38.Nb3 Rc4
+1/2-1/2
+[Event "Torremolinos"]
+[Site "Torremolinos"]
+[Date "1962.??.??"]
+[EventDate "?"]
+[Round "11"]
+[Result "0-1"]
+[White "Joaquim Manuel Durao"]
+[Black "Jaime Llado Lumbera"]
+[ECO "B93"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "48"]
+
+1. d4 c5 2. e4 cxd4 3. Nf3 d6 4. Nxd4 Nf6 5. Nc3 a6 6. f4 Qc7
+7. Bd3 g6 8. O-O Bg7 9. Nb3 Nc6 10. Qe1 O-O 11. Qh4 Nb4 12. f5
+d5 13. e5 Nxd3 14. exf6 Bxf6 15. Bg5 Bxg5 16. Qxg5 Qb6+
+17. Kh1 Nf2+ 18. Rxf2 Qxf2 19. Nxd5 f6 20. Qh6 Bxf5 21. Nxe7+
+Kh8 22. Nd2 Qc5 23. Re1 Rf7 24. b4 Rxe7 0-1
+[Event "Enschede zt"]
+[Site "Enschede"]
+[Date "1963.??.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "1-0"]
+[White "Jaime Llado Lumbera"]
+[Black "Wolfgang Heidenfeld"]
+[ECO "C07"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "85"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 exd5 5. Ngf3 Nf6 6. Bb5+
+Bd7 7. Bxd7+ Qxd7 8. O-O Nc6 9. Re1+ Be7 10. dxc5 O-O 11. Nb3
+Rad8 12. Be3 Ne4 13. c3 f5 14. Bd4 Qe6 15. Nfd2 Qh6 16. f3
+Nxd2 17. Qxd2 Bg5 18. Qd3 f4 19. Re2 Ne7 20. Nd2 Nf5 21. Nf1
+Bh4 22. Rd1 Rd7 23. Re5 Nxd4 24. cxd4 Bf6 25. Re2 g6 26. b4 a6
+27. a4 Qg7 28. h3 Re7 29. Rxe7 Qxe7 30. Nh2 Re8 31. Ng4 Bg7
+32. Ne5 a5 33. Re1 axb4 34. Qb3 Bxe5 35. Rxe5 Qf7 36. Qxb4
+Rxe5 37. dxe5 Qc7 38. Qd4 Qc6 39. Kh2 g5 40. Qb4 Kf7 41. Qb6
+Qxa4 42. Qf6+ Ke8 43. e6 1-0
+[Event "Torneo Zonale"]
+[Site "Enschede NED"]
+[Round "13"]
+[Date "1963.10.??"]
+[White "Llado Lumbera, Jaime"]
+[Black "Tatai, Stefano"]
+[Result "1-0"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Bxc6 dxc6 7.Qe1 c5 8.d3 Nd7 9.Be3 O-O 10.Nbd2 Re8 11.Nc4 Bf6 12.a4 b6 13.Nfd2 Nf8 14.a5 b5 15.Na3 Ne6 16.Nb3 Qd6 17.Nc1 Bb7 18.Ne2 Rad8 19.Nb1 Rd7 20.Ng3 g6 21.Nd2 Nd4 22.Qd1 Bg7 23.Ne2 Qe7 24.f3 Red8 25.Nxd4 cxd4 26.Bf2 c5 27.Bg3 c4 28.Kh1 c3 29.bxc3 dxc3 30.Nb3 b4 31.Bf2 Rc8 32.Bb6 f5 33.Qe2 Qd6 34.Qf2 Bf8 35.Qg3 f4 36.Qf2 g5 37.Rad1 Rc6 38.d4 exd4 39.Rxd4 Qe6 40.e5 Rd5 41.Re4 Qe8 42.Nd4 Bc5 43.Bxc5 Rcxc5 44.Nb3 Rb5 45.e6 Rd6 46.Ree1 Bc8 47.e7 Rd7 48.Qe2 Rc7 49.Nd4 Rxa5 50.Qe4 Rac5 51.Re2 b3 52.Nxb3 Bf5 53.Qd4 Rb5 54.Rfe1 Kf7 55.Re5 Kg6 56.Rxb5 1-0
+
+[Event "Zonal"]
+[Site "Enschede NED"]
+[Round "3"]
+[Date "1963.??.??"]
+[White "Philippe, Georges"]
+[Black "Llado Lumbera, Jaime"]
+[Result "0-1"]
+
+1.Nf3 Nf6 2.g3 g6 3.Bg2 Bg7 4.O-O O-O 5.d4 d6 6.Nc3 Nbd7 7.Bg5 h6 8.Bd2 e5 9.dxe5 dxe5 10.Qc1 Kh7 11.Rd1 c6 12.a4 a5 13.Rb1 Qe7 14.Ne1 Nc5 15.b4 axb4 16.Rxb4 e4 17.f3 Na6 18.Rb3 Be6 19.Ra3 exf3 20.exf3 Rfd8 21.Ne4 Nxe4 22.fxe4 Qc5+ 23.Kh1 Bg4 24.Nf3 Rd7 25.Rd3 Rad8 26.Be3 Qc4 27.Rxd7 Rxd7 28.Rxd7 Bxd7 29.Qb1 Qe2 30.Bg1 Bc8 31.Qb3 Kg8 32.Nh4 Qd1 33.Qc4 Be6 34.Qd3 Qa1 35.Qd8+ Kh7 36.Qb6 Qb2 37.a5 Qxb6 38.axb6 Nb4 39.Nf3 Nxc2 40.Bc5 Kg8 0-1
+
+[Event "Zonal"]
+[Site "Enschede NED"]
+[Round "14"]
+[Date "1963.??.??"]
+[White "Popov, Luben"]
+[Black "Llado Lumbera, Jaime"]
+[Result "0-1"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 6.Be3 e5 7.d5 c6 8.Qd2 cxd5 9.cxd5 Nbd7 10.O-O-O a6 11.Kb1 Nh5 12.Rc1 f5 13.Bd3 b5 14.Nge2 Nc5 15.Bc2 Bd7 16.exf5 gxf5 17.Ng3 Qe8 18.Nxh5 Qxh5 19.h3 Na4 20.g4 Qf7 21.Nd1 Rfc8 22.Bh6 f4 23.Bxg7 Qxg7 24.Be4 Rxc1+ 25.Qxc1 Nc5 26.Nf2 a5 27.h4 b4 28.Qd2 Rb8 29.h5 Kh8 30.Re1 Bb5 31.Bd3 Qb7 32.Bxb5 Qxb5 33.Qe2 Qxe2 34.Rxe2 h6 35.Rd2 Kg7 36.Kc1 Re8 37.Re2 Kf6 38.Kd1 Rc8 39.Rc2 Rb8 40.Ke2 b3 41.axb3 Rxb3 42.Nd1 e4 43.Rc3 e3 44.Rxb3 Nxb3 45.Nxe3 fxe3 46.Kxe3 Nc5 47.Kd4 Na4 48.b3 Nc5 49.Kc4 Kg5 50.b4 axb4 51.Kxb4 Nd3+ 52.Kb5 Ne5 53.Kb6 Nxf3 54.Kc7 Kxg4 55.Kxd6 Kxh5 56.Ke6 Nd4+ 57.Ke5 Nb5 58.Kf4 Kg6 59.Kg4 h5+ 60.Kh3 Kg5 61.Kg3 h4+ 62.Kh2 Kg4 63.Kg2 h3+ 64.Kg1 Kg3 65.d6 Nxd6 66.Kh1 Ne4 0-1
+
